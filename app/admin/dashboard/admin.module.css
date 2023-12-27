@@ -1,0 +1,11 @@
+.aside{
+    height:100vh;
+    background-color: bisque;
+}
+.footer{
+    position:relative;
+    bottom:0;
+    background-color:black;
+    color:white;
+    text-align: center;
+}
